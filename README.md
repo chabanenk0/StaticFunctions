@@ -1,0 +1,2 @@
+# StaticFunctions
+Static function example
